@@ -1,6 +1,6 @@
 def initialize_data_root(user):
 	if user == "AY":
-		return("C:/Users/Andrew/1001-term-project/data/")
+		return("C:/Users/Andrew/Downloads/datathon/data/")
 	if user == "MJ":
 		return("/Users/Alec/Documents/DSGA_1001_Homework/data/")
 	if user == "AH":
